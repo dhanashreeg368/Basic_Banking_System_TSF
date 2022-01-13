@@ -20,11 +20,9 @@ function sendtrans()
                     document.getElementById("t"+String(i+1)+"3").innerHTML = String(s[i][2]);
                     document.getElementById("t"+String(i+1)+"4").innerHTML = String(s[i][3]);
                     document.getElementById("t"+String(i+1)+"5").innerHTML = String(s[i][4]);
-                }
+                }         
                 
-               
-                
-                //valp=rec['task']['validp'];
+            //valp=rec['task']['validp'];
 	        if (xhr.readyState == 4 && xhr.status == "201") {
 		    console.table(users);
 	        } else {
