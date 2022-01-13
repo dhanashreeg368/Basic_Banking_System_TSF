@@ -52,7 +52,7 @@
     padding: 1rem 2rem;
     font-size: 132%;
     background-color: #fff;
-    color: #FF4C68!important;
+    color: blue;
     transition: 0.3s;
   }
   .user-trans-button{
@@ -77,18 +77,18 @@
   }
   
   .icon {
-    color: #EF8172;
+    color: blue;
     margin-bottom: 1rem;
   }
   
   .icon:hover {
-    color: #FF4C68;
+    color: blue;
   }
   
   /* CTA Section */
   #cta {
     text-align: center;
-    background-color: #FF4C68;
+    background-color: blue;
     font-family: "Montserrat";
     padding: 7% 15%;
   }
@@ -102,7 +102,7 @@
   
   /*For table of Users*/
   tbody {
-    background-color:#f7f6e7;
+    background-color:whitesmoke;
   }
   
   thead th, tfoot th, tfoot td {
@@ -110,7 +110,7 @@
   }
   
   thead{
-    background-color: #ffe3de;
+    background-color: blue;
   }
   
   /* footer section styling */
@@ -121,7 +121,7 @@ footer{
     text-align: center;
 }
 footer span a{
-    color: crimson;
+    color: skyblue;
     text-decoration: none;
 }
 footer span a:hover{
